@@ -28,8 +28,8 @@ warnings.filterwarnings("ignore")
 # =============================================================================
 # CONFIG
 # =============================================================================
-DATA_PATH = "test.csv"                # <-- change this
-TARGET_COL = "YOUR_TARGET_COLUMN"     # <-- change this
+DATA_PATH = "test.csv"
+TARGET_COL = "price_column"
 OUTPUT_DIR = "regression_project_outputs"
 
 TEST_SIZE = 0.20
